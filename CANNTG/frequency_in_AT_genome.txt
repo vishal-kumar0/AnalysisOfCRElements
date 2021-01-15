@@ -1,0 +1,5 @@
+Frequency in promoter_chromosome 1 : 38637
+Frequency in promoter_chromosome 2 : 31619
+Frequency in promoter_chromosome 3 : 37501
+Frequency in promoter_chromosome 4 : 29821
+Frequency in promoter_chromosome 5 : 43688

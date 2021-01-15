@@ -1,7 +1,7 @@
 f = open("promoter_chromosome1.txt", "r")
-
+# promoter_chromosome1.txt is the dataset collected from the NCBI website for A.Thaliana
 text = f.read()
-#text = "AAAAGCCGACAAAAAGCCGACSSSSSSACCGACSSSSSSSSSSSSSSSSSSSS"
+#text = "AAAAGCCGACAAAAAGCCGACSSSSSSACCGACSSSSSSSSSSSSSSSSSSSS"     a random element
 
 pat1 = "ACCGAC"
 
